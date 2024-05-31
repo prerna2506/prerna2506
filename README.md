@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @prerna2506
-- 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... BCA
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... message me 
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... i am girl
+Hi there! 👋
+
+I’m [Your Name], a passionate Front end development with a keen interest in Web Development. Here, you'll find a collection of my projects, contributions, and learning journeys.
 
 <!---
 prerna2506/prerna2506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
